@@ -1,0 +1,12 @@
+{
+	"Name": "Cole",
+	"Age": 21,
+	"Contact": "+54751088374",
+	"Company": "Amazon",
+	"Address": {
+		"City": "Lisbon City",
+		"State": "Lisbon",
+		"Country": "Portugal",
+		"Pincode": 39100
+	}
+}

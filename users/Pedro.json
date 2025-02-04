@@ -1,0 +1,12 @@
+{
+	"Name": "Pedro",
+	"Age": 22,
+	"Contact": "+1771828374",
+	"Company": "Microsoft",
+	"Address": {
+		"City": "Palo Alto",
+		"State": "California",
+		"Country": "USA",
+		"Pincode": 43693
+	}
+}

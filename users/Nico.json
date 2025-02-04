@@ -1,0 +1,12 @@
+{
+	"Name": "Nico",
+	"Age": 22,
+	"Contact": "+18702028376",
+	"Company": "Netflix",
+	"Address": {
+		"City": "Moscow",
+		"State": "West Russia",
+		"Country": "Russia",
+		"Pincode": 42321
+	}
+}

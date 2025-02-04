@@ -1,0 +1,12 @@
+{
+	"Name": "James",
+	"Age": 25,
+	"Contact": "+1741628374",
+	"Company": "Google",
+	"Address": {
+		"City": "San Francisco",
+		"State": "California",
+		"Country": "USA",
+		"Pincode": 20409
+	}
+}
